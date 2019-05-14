@@ -1,1 +1,1 @@
- Preprocessing steps and data exploration done on the IMDB Text Sentiment Dataset.
+Repository with preprocessing and data exploration & visualization of the IMDB Review Text Dataset.
