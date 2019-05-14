@@ -1,0 +1,1 @@
+Performed discretization on OpenAI Gym's Mountain Car environment in preparation for reinforcement agent training. Discretization turned mountain car's continuous two dimensional state space space into a uniformly defined grid. This makes it possible to update corresponding state-action values and for the agent to learn in a feasible amount of time.
