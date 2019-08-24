@@ -1,0 +1,1 @@
+Using a critic's quote that describes what such critic thought about a movie, a Multinomial Naive Bayes classifier and a neural network were fitted to predict the sentiment of the critic's quote; the critic's quote could either approve which would classify the movie as "fresh or disapprove which would classify the movie as "rotten".
